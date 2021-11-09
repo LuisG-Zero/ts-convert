@@ -1,0 +1,18 @@
+{
+  "name": "ts-convert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pizza": "tsc apps.ts -w",
+    "dev": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.5.8",
+    "jquery": "^3.6.0",
+    "typescript": "^4.4.4"
+  }
+}
